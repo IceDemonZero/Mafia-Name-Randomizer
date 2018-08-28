@@ -4,11 +4,12 @@ and then randomly assigns them to each other.
 
 # Getting-Started
 
-## Prerequisites
+### Prerequisites
 None
 
-## Installing
+### Installing
 Just copy or download.
+
 
 #Python version
 Made in python 3.6.2
